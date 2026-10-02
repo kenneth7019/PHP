@@ -6,6 +6,8 @@
 
  $titulo2 ="http://".strtolower(str_replace([" ", "ó"],["-", "o"],$titulo));
 
+ 
+
  echo $titulo2;
 
 ?>
